@@ -1,0 +1,531 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: little-wp-to-twitter 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-10-31 16:11+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: liuqiqi <imqiqiboy@gmail.com>\n"
+"Language-Team: qiqiboy <imqiqiboy@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Chinese\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Country: CHINA\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: wp-enjoy-reading.php:17
+msgid "WP-Enjoy-Reading Options"
+msgstr "Enjoy Reading 设置"
+
+#: wp-enjoy-reading.php:18
+msgid "How to use this plug-in?"
+msgstr "如何去使用插件？"
+
+#: wp-enjoy-reading.php:19
+msgid "1.Go to widgets page to add the widget to your sidebar."
+msgstr "1. 到小工具页面向边栏添加【尽享阅读】小工具"
+
+#: wp-enjoy-reading.php:20
+msgid "2.use the function "
+msgstr "2. 调用函数"
+
+#: wp-enjoy-reading.php:20
+msgid " to custom the posts display position."
+msgstr "来自定义显示位置，此函数将生成一个a链接节点"
+
+#: wp-enjoy-reading.php:24
+msgid "Some configuration:"
+msgstr "一些设置："
+
+#: wp-enjoy-reading.php:28
+msgid "Not displayed cats ID"
+msgstr "排除的分类ID:"
+
+#: wp-enjoy-reading.php:29
+msgid "(use ',' to separate more than one cat, eg:216,345)"
+msgstr "(请使用半角“,”分隔多个分类ID)"
+
+#: wp-enjoy-reading.php:33
+msgid "comments number(dt: 10)"
+msgstr "每次载入评论数："
+
+#: wp-enjoy-reading.php:34
+msgid "Each time the number of comments to load(when click \"load more comments\" link)"
+msgstr "每次载入的评论数量"
+
+#: wp-enjoy-reading.php:38
+msgid "Choose the default theme:"
+msgstr "选择一个默认的皮肤："
+
+#: wp-enjoy-reading.php:51
+msgid "Your all categorys:"
+msgstr "你所有的分类："
+
+#: wp-enjoy-reading.php:60
+msgid "Follow me on Twitter: @qiqiboy "
+msgstr ""
+
+#: wp-enjoy-reading.php:65
+msgid "Save Changes"
+msgstr "保存更改"
+
+#: func/function.php:10
+msgid "Default"
+msgstr "默认皮肤"
+
+#: func/function.php:11
+msgid "Mid-Autumn"
+msgstr "中秋萤火"
+
+#: func/function.php:12
+msgid "bear"
+msgstr "熊花园"
+
+#: func/function.php:13
+msgid "love me"
+msgstr "我可爱吗"
+
+#: func/function.php:14
+msgid "bear and meme"
+msgstr "麦咪和熊"
+
+#: func/function.php:21
+msgid "Too many posts!!!"
+msgstr "太多文章请求！！"
+
+#: func/function.php:42
+msgid "There is no post."
+msgstr "已经没有文章了。"
+
+#: func/function.php:45
+msgid "The id is not exist."
+msgstr "请求的文章ID不存在。"
+
+#: func/function.php:66
+msgid "change theme"
+msgstr "更改皮肤"
+
+#: func/function.php:84
+msgid "From: "
+msgstr "来自："
+
+#: func/function.php:85
+#: func/function.php:86
+msgid "Time: "
+msgstr "发表于 "
+
+#: func/function.php:87
+msgid "page "
+msgstr "第 "
+
+#: func/function.php:88
+msgid " "
+msgstr " 页"
+
+#: func/function.php:89
+msgid "newer"
+msgstr "上一页"
+
+#: func/function.php:90
+msgid "older"
+msgstr "下一页"
+
+#: func/function.php:91
+msgid "Comments"
+msgstr "评论"
+
+#: func/function.php:92
+msgid "Load more comments"
+msgstr "显示更多评论"
+
+#: func/function.php:93
+msgid "There is no comments."
+msgstr "没有评论。"
+
+#: func/function.php:94
+msgid "loading Enjoy Reading files, please wait..."
+msgstr "正在载入脚本文件，请稍后..."
+
+#: func/function.php:95
+msgid "loading EnjoyReading page, please wait..."
+msgstr "正在载入阅读页面，请稍后..."
+
+#: func/function.php:96
+msgid "EnjoyReading page load success! Initialize..."
+msgstr "正在载入阅读页面，请稍后..."
+
+#: func/function.php:97
+msgid "loading request data, please wait..."
+msgstr "正在请求数据，请稍后..."
+
+#: func/function.php:98
+msgid "Request timed out, or post request data too large, click the \"Reload\" try again!"
+msgstr "请求超时，可能当前网络状况不好，请稍后再试！"
+
+#: func/function.php:99
+msgid "Say something..."
+msgstr "说点什么..."
+
+#: func/function.php:100
+msgid "change"
+msgstr "更改"
+
+#: func/function.php:101
+msgid "is submiting..."
+msgstr "正在提交..."
+
+#: func/function.php:102
+msgid "Please check your name!"
+msgstr "错误：请输入你的姓名！"
+
+#: func/function.php:103
+msgid "Please check your email!"
+msgstr "错误：请检查你的邮箱！"
+
+#: func/function.php:104
+msgid "Please check your comment!"
+msgstr "错误：请输入你的评论！"
+
+#: func/function.php:105
+msgid "Please check your input!"
+msgstr "错误：请检查你的输入！"
+
+#: func/function.php:106
+msgid "Welcome back"
+msgstr "欢迎回来"
+
+#: func/function.php:107
+msgid "Submit Comment"
+msgstr "发表评论"
+
+#: func/function.php:108
+msgid "submit successfully!"
+msgstr "评论成功！"
+
+#: func/function.php:121
+msgid "The post you are trying to comment on does not currently exist in the database."
+msgstr "您评论的日志或页面不存在。"
+
+#: func/function.php:124
+msgid "Sorry, comments are closed for this item."
+msgstr "对不起，评论已关闭。"
+
+#: func/function.php:127
+msgid "The post you are trying to comment on has not been published."
+msgstr "你评论的日志尚未发表。"
+
+#: func/function.php:137
+msgid "Sorry, you must be logged in to post a comment."
+msgstr "对不起，你必须登陆才能发表评论。"
+
+#: func/function.php:141
+msgid "Error: please fill the required fields (name, email)."
+msgstr "错误：请填写必要的内容（姓名和邮箱）。"
+
+#: func/function.php:143
+msgid "Error: please enter a valid email address."
+msgstr "错误：请填写一个正确的邮件地址"
+
+#: func/function.php:146
+msgid "Error: please type a comment."
+msgstr "错误：请输入评论内容"
+
+#: func/function.php:151
+msgid "Duplicate comment detected; it looks as though you&#8217;ve already said that!"
+msgstr "貌似你已经发表过这条评论了。"
+
+#: func/function.php:158
+msgid "You are posting comments too quickly.  Slow down."
+msgstr "你评论太快了，歇会儿吧"
+
+#: func/function.php:180
+msgid "Your comment is awaiting moderation."
+msgstr "你的评论正在等待审核。"
+
+#: func/function.php:215
+msgid "Y/m/d"
+msgstr ""
+
+#: func/function.php:216
+msgid "H:i"
+msgstr ""
+
+#: func/function.php:217
+#, php-format
+msgid "%1$s - %2$s"
+msgstr ""
+
+#: func/function.php:247
+#: func/function.php:251
+#: func/function.php:261
+#: func/function.php:265
+#: func/function.php:278
+msgid "Enjoy Reading"
+msgstr "尽享阅读"
+
+#: func/function.php:260
+msgid "Just Enjoy Reading For Your Wordpress Blog."
+msgstr "尽享你的wordpress博客阅读乐趣"
+
+#: func/function.php:266
+#: func/function.php:279
+msgid "Click here to Enjoy Reading"
+msgstr "点击开始阅读"
+
+#: func/function.php:267
+msgid "widget title: "
+msgstr "小工具标题"
+
+#: func/function.php:268
+msgid "The text of \"Enjoy Reading\" link: "
+msgstr "Enjoy Reading链接文字"
+
+#~ msgid "Please check your url!"
+#~ msgstr "请检查你的网址！"
+#~ msgid "WP-RC-Reply-AJAX Options"
+#~ msgstr "WP-RC-Reply-Ajax 设置"
+#~ msgid "only admin can reply?"
+#~ msgstr "只有博主能回复？"
+#~ msgid "Show admin comment?"
+#~ msgstr "显示管理员评论？"
+#~ msgid "Show gravatar?"
+#~ msgstr "显示头像？"
+#~ msgid "Show the navigator?"
+#~ msgstr "显示翻页按钮？"
+#~ msgid "show refresh button at first page?"
+#~ msgstr "在评论列表的首页显示刷新按钮？"
+#~ msgid "enable \"ctrl+Enter\" submit shortcuts?"
+#~ msgstr "启用“ctrl+Enter”快捷回复？"
+#~ msgid "put avatar right"
+#~ msgstr "将头像显示在右边？"
+#~ msgid ""
+#~ "output reply button always(Do not need to enter the single comment mode)?"
+#~ msgstr ""
+#~ "总是输出回复按钮（在最新评论列表也输出回复按钮，无需进入单条评论查看模式）"
+#~ msgid "Avatar size(int), default 32:"
+#~ msgstr "头像尺寸（整数，默认32）"
+#~ msgid "Cut comment length(int), default 30:"
+#~ msgstr "评论截断字符长度（整数，默认30）"
+#~ msgid "reply button name:"
+#~ msgstr "回复按钮名字："
+#~ msgid "auto add @XXX to comment box"
+#~ msgstr "自动添加@回复到评论框"
+#~ msgid "Begin from the "
+#~ msgstr "从第"
+#~ msgid "none"
+#~ msgstr "无"
+#~ msgid "1"
+#~ msgstr "一"
+#~ msgid "2"
+#~ msgstr "二"
+#~ msgid "3"
+#~ msgstr "三"
+#~ msgid "4"
+#~ msgstr "四"
+#~ msgid "5"
+#~ msgstr "五"
+#~ msgid " depth?"
+#~ msgstr "层回复开始"
+#~ msgid "(\"none\" means always do not add \"@XXX\" to comment box.)"
+#~ msgstr "（“无”表示不添加@回复到评论框）"
+#~ msgid "javascript and css files add to"
+#~ msgstr "JS和css文件的引入位置"
+#~ msgid "footer"
+#~ msgstr "尾部"
+#~ msgid "plugin reduce"
+#~ msgstr "插件介绍"
+#~ msgid ""
+#~ "WP-RC-Reply-AJAX plug-in as a display for the latest comments sidebar "
+#~ "plugin developed."
+#~ msgstr ""
+#~ "WP-RC-Reply-AJAX插件为一款针对侧边栏显示最新评论而开发的插件。当然，显示最"
+#~ "新评论并不是它的卖点，因为相关类似的东西已经有了很多，如免插件版的最新评"
+#~ "论、mg12开发的wp-recentcomments插件等。我的这个插件不仅具有wp-"
+#~ "recentcomments的功能，另外还具有在查看单条评论时就可以<span style=\"color:"
+#~ "red;font-weight:bold;\">直接地、即时地回复这条评论</span>。<br>你可以直接"
+#~ "通过< ?php wp_rc_reply_echo(); ? >在需要显示的地方调用，也可以在主题的小工"
+#~ "具设置页面向边栏添加小工具。"
+#~ msgid ""
+#~ "use &lt;?php wp_rc_reply_echo(\"number=&length=&size=&at=\"); ?> to show "
+#~ "the comments list."
+#~ msgstr ""
+#~ "你可以直接在需要显示最新评论的地方调用&lt;?php wp_rc_reply_echo(); ?>。没"
+#~ "有可选参数，一切设置请到后台设置。"
+#~ msgid "Go to "
+#~ msgstr "请到"
+#~ msgid "My Blog Plugins page "
+#~ msgstr "我博客插件页面"
+#~ msgid " to get more info."
+#~ msgstr "获取更多信息。"
+#~ msgid "newest"
+#~ msgstr "第一页"
+#~ msgid "refrush"
+#~ msgstr "刷新"
+#~ msgid "back"
+#~ msgstr "返回"
+
+#, fuzzy
+#~ msgid "reply"
+#~ msgstr "回复"
+#~ msgid "You have already reply to this comment."
+#~ msgstr "您已经回复过这条评论了！"
+#~ msgid "ERROR: Please input a right email!"
+#~ msgstr "错误：请输入一个正确的email！"
+#~ msgid "ERROR: Please input a comment!"
+#~ msgstr "错误：请输入评论内容！"
+#~ msgid "submit succussed! Thank you."
+#~ msgstr "提交成功！感谢您的评论！"
+#~ msgid "cancle submit"
+#~ msgstr "取消回复"
+#~ msgid "login in as "
+#~ msgstr "登录为 "
+#~ msgid " has received your reply.<br>And now you can "
+#~ msgstr "已经收到了您的回复。<br>现在你可以"
+#~ msgid "View New Reply"
+#~ msgstr "查看新评论"
+#~ msgid " or Go Back."
+#~ msgstr "或者返回"
+#~ msgid "wp_rc_reply"
+#~ msgstr "设置边栏回复选项"
+#~ msgid "show recent comments and reply anyone @ sidebar widget."
+#~ msgstr "显示最新评论以及在边栏回复"
+#~ msgid "WP-RC-Reply"
+#~ msgstr "边栏回复小工具"
+#~ msgid "auto wrap when comment length is too short?"
+#~ msgstr "将太短的评论自动换行？"
+#~ msgid "close comment-page fliter."
+#~ msgstr "关闭评论分页链接过滤功能？"
+#~ msgid "@"
+#~ msgstr "@"
+#~ msgid "&laquo; Newest"
+#~ msgstr "&laquo; 第一页"
+#~ msgid "&laquo; Newer"
+#~ msgstr "&laquo; 上一页"
+#~ msgid "&laquo; Refresh &raquo;"
+#~ msgstr "&laquo; 刷新 &raquo;"
+#~ msgid "Older &raquo;"
+#~ msgstr "下一页 &raquo;"
+#~ msgid "&laquo; Back"
+#~ msgstr "&laquo; 返回"
+
+#, fuzzy
+#~ msgid ""
+#~ "WP-RC-Reply-AJAX plug-in as a display for the latest comments sidebar "
+#~ "plugin developed. Of course, show the latest comment was not its selling "
+#~ "point, as relevant have been many similar things, such as the free plug-"
+#~ "in version of the latest comments, mg12 development wp-recentcomments "
+#~ "plug-ins, etc.. This plug-in not only my wp-recentcomments function also "
+#~ "has in view a single comment can <span style=\\\"color:red;font-weight:"
+#~ "bold;\\\"> directly, in real time Reply to this comment </ span>. <br>  "
+#~ "you directly through the <? php wp_rc_reply_echo;?> the need to display "
+#~ "the local call, you can also set the page theme gadget add gadget to the "
+#~ "Sidebar."
+#~ msgstr ""
+#~ "WP-RC-Reply-AJAX插件为一款针对侧边栏显示最新评论而开发的插件。当然，显示最"
+#~ "新评论并不是它的卖点，因为相关类似的东西已经有了很多，如免插件版的最新评"
+#~ "论、mg12开发的wp-recentcomments插件等。我的这个插件不仅具有wp-"
+#~ "recentcomments的功能，另外还具有在查看单条评论时就可以<span style=\"color:"
+#~ "red;font-weight:bold;\">直接地、即时地回复这条评论</span>。<br>你可以直接"
+#~ "通过<?php wp_rc_reply_echo; ?>在需要显示的地方调用，也可以在主题的小工具设"
+#~ "置页面向边栏添加小工具。"
+#~ msgid "eeee"
+#~ msgstr ""
+#~ "WP-RC-Reply-AJAX插件为一款针对侧边栏显示最新评论而开发的插件。当然，显示最"
+#~ "新评论并不是它的卖点，因为相关类似的东西已经有了很多，如免插件版的最新评"
+#~ "论、mg12开发的wp-recentcomments插件等。我的这个插件不仅具有wp-"
+#~ "recentcomments的功能，另外还具有在查看单条评论时就可以<span style=\"color:"
+#~ "red;font-weight:bold;\">直接地、即时地回复这条评论</span>。<br>你可以直接"
+#~ "通过<?php wp_rc_reply_echo; ?>在需要显示的地方调用，也可以在主题的小工具设"
+#~ "置页面向边栏添加小工具。"
+#~ msgid "www"
+#~ msgstr ""
+#~ "WP-RC-Reply-AJAX插件为一款针对侧边栏显示最新评论而开发的插件。当然，显示最"
+#~ "新评论并不是它的卖点，因为相关类似的东西已经有了很多，如免插件版的最新评"
+#~ "论、mg12开发的wp-recentcomments插件等。我的这个插件不仅具有wp-"
+#~ "recentcomments的功能，另外还具有在查看单条评论时就可以<span style=\"color:"
+#~ "red;font-weight:bold;\">直接地、即时地回复这条评论</span>。<br>你可以直接"
+#~ "通过<?php wp_rc_reply_echo; ?>在需要显示的地方调用，也可以在主题的小工具设"
+#~ "置页面向边栏添加小工具。"
+#~ msgid "wp_rc_replyeee"
+#~ msgstr ""
+#~ "WP-RC-Reply-AJAX插件为一款针对侧边栏显示最新评论而开发的插件。当然，显示最"
+#~ "新评论并不是它的卖点，因为相关类似的东西已经有了很多，如免插件版的最新评"
+#~ "论、mg12开发的wp-recentcomments插件等。我的这个插件不仅具有wp-"
+#~ "recentcomments的功能，另外还具有在查看单条评论时就可以<span style=\"color:"
+#~ "red;font-weight:bold;\">直接地、即时地回复这条评论</span>。<br>你可以直接"
+#~ "通过<?php wp_rc_reply_echo; ?>在需要显示的地方调用，也可以在主题的小工具设"
+#~ "置页面向边栏添加小工具。"
+#~ msgid "set comments length be cuted"
+#~ msgstr "设置评论的截断长度"
+#~ msgid "Little-wp-to-twitter Options"
+#~ msgstr "Little-wp-to-twitter 设置"
+#~ msgid "Enable little wp to twitter?"
+#~ msgstr "启用同步到twitter？"
+#~ msgid "Enable little wp to twitter."
+#~ msgstr "启用Little-wp-to-twitter插件。"
+#~ msgid "Enable tags to twitter."
+#~ msgstr "同步日志标签到微博。"
+#~ msgid "Enable wp to sina."
+#~ msgstr "启用同步到新浪微博。"
+#~ msgid "Twitter ID and PASSWORD"
+#~ msgstr "twitter用户名和密码"
+#~ msgid "Enter your Twitter username and password."
+#~ msgstr "请输入你的twitter用户名和密码。"
+#~ msgid "Twitter Username"
+#~ msgstr "twitter用户名"
+#~ msgid "Twitter Password"
+#~ msgstr "twitter密码"
+#~ msgid "Enter your sina username and password."
+#~ msgstr "请输入你的新浪用户名和密码"
+#~ msgid "Sina Username"
+#~ msgstr "新浪通行证用户名"
+#~ msgid "Sina Password"
+#~ msgstr "新浪通行证密码"
+#~ msgid "Custom prefix"
+#~ msgstr "自定义消息前缀"
+#~ msgid "Prefix for a new post:"
+#~ msgstr "发表一篇新日志时的消息前缀："
+#~ msgid "Prefix for updated a post:"
+#~ msgstr "更新日志时的消息前缀："
+#~ msgid "The time leave the first publish"
+#~ msgstr "缓推时间（单位：秒）："
+#~ msgid "input the number(seconds):"
+#~ msgstr "请输入数字（单位：秒）："
+#~ msgid "example: 3600"
+#~ msgstr "例如：3600"
+#~ msgid "Custom your shorten url api"
+#~ msgstr "自定义短网址服务接口api："
+#~ msgid "input urlShorten-service api:"
+#~ msgstr "请输入短网址服务api"
+#~ msgid "example: http://example.com/api.php?url="
+#~ msgstr "例如：http://example.com/api.php?url="
+#~ msgid "Custom twitter proxy"
+#~ msgstr "自定义twitter代理"
+#~ msgid "use a proxy?(If your host put in China)."
+#~ msgstr "使用代理？（国内主机用户必须启用，国外主机用户不推荐。）"
+#~ msgid "you can also use your twitter proxy:"
+#~ msgstr "你也可以使用你自己的twitter代理："
+#~ msgid "example: http://nest.onedd.net/api/statuses/update.xml"
+#~ msgstr "例如：http://nest.onedd.net/api/statuses/update.xml"
+#~ msgid "little-wp-to-twitter"
+#~ msgstr "同步到twitter"
+#~ msgid "little-wp-to-twitter username and password"
+#~ msgstr "little-wp-to-twitter 的用户名和密码。"
+#~ msgid "Please go to "
+#~ msgstr "请到"
+#~ msgid " to enable the options."
+#~ msgstr " 启用设置。"
+#~ msgid "Please enter your sina username and password."
+#~ msgstr "请输入你的新浪通行证用户名和密码。"
+#~ msgid "Tweet this post to Twitter?"
+#~ msgstr "同步到twitter？"
+#~ msgid "Yes"
+#~ msgstr "是"
+#~ msgid "No"
+#~ msgstr "否"
+#~ msgid "You can add this after the tweet."
+#~ msgstr "你可以添加以下内容到消息后面。"
+
